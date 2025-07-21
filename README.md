@@ -15,3 +15,29 @@
 
 ## 📂 Project Structure
 
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.6+
+- No external libraries required (uses built-in `tkinter`, `os`, and `random`)
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository** or download the project files:
+   ```bash
+   git clone https://github.com/yourusername/bac-studymate.git
+   cd bac-studymate
+subjects = {
+    "Math": ["Algebra", "Geometry", "Calculus"],
+    "Physics": ["Mechanics", "Optics", "Thermodynamics"],
+    ...
+}
+tips = [
+    "Take short breaks to stay focused.",
+    "Teach someone else what you’ve learned.",
+    ...
+]
